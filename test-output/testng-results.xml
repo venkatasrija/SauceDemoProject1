@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-04T13:33:42 IST" name="Default suite" finished-at="2024-09-04T13:34:28 IST" duration-ms="45964">
+    <groups>
+    </groups>
+    <test started-at="2024-09-04T13:33:42 IST" name="Default test" finished-at="2024-09-04T13:34:28 IST" duration-ms="45964">
+      <class name="com.qa.sauce.testcases.LoginTestCase">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.sauce.testcases.LoginTestCase@7674f035]" started-at="2024-09-04T13:33:38 IST" name="setUp" finished-at="2024-09-04T13:33:42 IST" duration-ms="4477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitle()[pri:1, instance:com.qa.sauce.testcases.LoginTestCase@7674f035]" started-at="2024-09-04T13:33:42 IST" name="loginPageTitle" finished-at="2024-09-04T13:33:46 IST" duration-ms="3182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitle -->
+        <test-method signature="loginTest()[pri:2, instance:com.qa.sauce.testcases.LoginTestCase@7674f035]" started-at="2024-09-04T13:33:46 IST" name="loginTest" finished-at="2024-09-04T13:33:52 IST" duration-ms="5895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="Filters()[pri:3, instance:com.qa.sauce.testcases.LoginTestCase@7674f035]" started-at="2024-09-04T13:33:52 IST" name="Filters" finished-at="2024-09-04T13:34:02 IST" duration-ms="10544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Filters -->
+        <test-method signature="addToCartimageTest()[pri:4, instance:com.qa.sauce.testcases.LoginTestCase@7674f035]" started-at="2024-09-04T13:34:02 IST" name="addToCartimageTest" finished-at="2024-09-04T13:34:08 IST" duration-ms="5924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartimageTest -->
+        <test-method signature="RemoveItemsTest()[pri:6, instance:com.qa.sauce.testcases.LoginTestCase@7674f035]" started-at="2024-09-04T13:34:08 IST" name="RemoveItemsTest" finished-at="2024-09-04T13:34:16 IST" duration-ms="7848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RemoveItemsTest -->
+        <test-method signature="OverViewDetails()[pri:7, instance:com.qa.sauce.testcases.LoginTestCase@7674f035]" started-at="2024-09-04T13:34:16 IST" name="OverViewDetails" finished-at="2024-09-04T13:34:21 IST" duration-ms="5528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OverViewDetails -->
+        <test-method signature="Logout()[pri:8, instance:com.qa.sauce.testcases.LoginTestCase@7674f035]" started-at="2024-09-04T13:34:21 IST" name="Logout" finished-at="2024-09-04T13:34:28 IST" duration-ms="6993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+      </class> <!-- com.qa.sauce.testcases.LoginTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
